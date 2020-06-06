@@ -149,4 +149,26 @@ F 3 "" H 3575 2825 50  0001 C CNN
 	1    3575 2825
 	1    0    0    -1  
 $EndComp
+$Comp
+L Device:Crystal Y?
+U 1 1 5EDCC86A
+P 4975 5400
+F 0 "Y?" H 4975 5668 50  0000 C CNN
+F 1 "Crystal" H 4975 5577 50  0000 C CNN
+F 2 "" H 4975 5400 50  0001 C CNN
+F 3 "~" H 4975 5400 50  0001 C CNN
+	1    4975 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Crystal Y?
+U 1 1 5EDCCD58
+P 5025 5950
+F 0 "Y?" H 5025 6218 50  0000 C CNN
+F 1 "Crystal" H 5025 6127 50  0000 C CNN
+F 2 "" H 5025 5950 50  0001 C CNN
+F 3 "~" H 5025 5950 50  0001 C CNN
+	1    5025 5950
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
