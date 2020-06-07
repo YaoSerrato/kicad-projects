@@ -18,7 +18,7 @@ L Connector_Generic:Conn_01x09 J2
 U 1 1 5EDA2054
 P 5150 4000
 F 0 "J2" H 5230 4042 50  0000 L CNN
-F 1 "Digital" H 5230 3951 50  0000 L CNN
+F 1 "Digital pins" H 5230 3951 50  0000 L CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical" H 5150 4000 50  0001 C CNN
 F 3 "~" H 5150 4000 50  0001 C CNN
 	1    5150 4000
@@ -57,4 +57,50 @@ F 3 "~" H 6600 2825 50  0001 C CNN
 	1    6600 2825
 	1    0    0    -1  
 $EndComp
+Text HLabel 6350 3900 0    50   Output ~ 0
+MISO
+Text HLabel 6350 4000 0    50   BiDi ~ 0
+SCK
+Text HLabel 6350 4100 0    50   Output ~ 0
+RESET
+Text HLabel 6850 3900 2    50   Input ~ 0
+Vcc
+Text HLabel 6850 4000 2    50   Input ~ 0
+MOSI
+Text HLabel 6850 4100 2    50   Input ~ 0
+GND
+Text HLabel 4950 2725 0    50   Input ~ 0
+GND
+Text HLabel 4950 2825 0    50   Input ~ 0
+Vcc
+Text HLabel 4950 2925 0    50   Input ~ 0
+RX
+Text HLabel 4950 3025 0    50   Output ~ 0
+TX
+Text HLabel 6400 2725 0    50   Input ~ 0
+GND
+Text HLabel 6400 2825 0    50   Input ~ 0
+Vcc
+Text HLabel 6400 2925 0    50   BiDi ~ 0
+SDA
+Text HLabel 6400 3025 0    50   BiDi ~ 0
+SCK
+Text HLabel 4950 3600 0    50   BiDi ~ 0
+D2
+Text HLabel 4950 3700 0    50   BiDi ~ 0
+D3
+Text HLabel 4950 3800 0    50   BiDi ~ 0
+D4
+Text HLabel 4950 3900 0    50   BiDi ~ 0
+D5
+Text HLabel 4950 4000 0    50   BiDi ~ 0
+D6
+Text HLabel 4950 4100 0    50   BiDi ~ 0
+D7
+Text HLabel 4950 4200 0    50   BiDi ~ 0
+D8
+Text HLabel 4950 4300 0    50   Input ~ 0
+GND
+Text HLabel 4950 4400 0    50   Input ~ 0
+Vcc
 $EndSCHEMATC
