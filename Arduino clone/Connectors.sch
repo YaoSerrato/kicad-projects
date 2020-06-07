@@ -103,4 +103,12 @@ Text HLabel 4950 4300 0    50   Input ~ 0
 GND
 Text HLabel 4950 4400 0    50   Input ~ 0
 Vcc
+Text Notes 4850 2575 0    50   Italic 0
+N4 - USART connector
+Text Notes 6325 2600 0    50   Italic 0
+N5 - I2C connector
+Text Notes 4725 3450 0    50   Italic 0
+N6 - Digital pins connector
+Text Notes 6350 3575 0    50   Italic 0
+N7 - SPI connector
 $EndSCHEMATC
